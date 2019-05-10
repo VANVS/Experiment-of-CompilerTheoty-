@@ -1,0 +1,5 @@
+name	address	kind	level	process
+k	0	实参	1	main
+n	1	形参	2	F
+k	2	实参	2	F
+l	3	实参	1	main
